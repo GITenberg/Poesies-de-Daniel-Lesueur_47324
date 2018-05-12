@@ -1,4 +1,8 @@
 _repo: Poesies-de-Daniel-Lesueur_47324
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47324-h/images/cover.jpg
 creator:
   author:
     agent_name: Lesueur, Daniel
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42911
     wikipedia: http://fr.wikipedia.org/wiki/Jeanne_Lapauze
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47324#Poesies-de-Daniel-Lesueur
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2014-11-09'
 gutenberg_type: Text
